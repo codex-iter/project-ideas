@@ -1,5 +1,5 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg)
-## The list of submitted project ideas and member Github accounts of Codex
+## The list of submitted project ideas and Github accounts of Codex members
 
 
 * [Debashish Mishra](https://github.com/Zanark)
