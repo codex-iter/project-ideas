@@ -2,7 +2,7 @@
 ## The list of submitted project ideas and member Github accounts
 
 
-* Debashish Mishra
+* [Debashish Mishra] (https://github.com/Zanark)
 
 >Institute level map and directions to find a particular faculty or room number. 
 
