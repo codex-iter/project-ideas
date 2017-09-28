@@ -1,5 +1,5 @@
-# project-ideas
-## The list of submitted project ideas and member Github accounts
+# Project Ideas - Codex 2.0
+## The list of submitted project ideas and member Github accounts of Codex
 
 
 * [Debashish Mishra](https://github.com/Zanark)
