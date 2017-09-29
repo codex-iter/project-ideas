@@ -7,6 +7,8 @@
 
 * [A Rupesh](https://github.com/rupesh1310)
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
+* [Aniket Prasad](https://github.com/aniketdgp)
+```Digital queueing system using QR codes to avoid standing in a queue. ```
 
 ### Jump in for a chat!
 
