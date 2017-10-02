@@ -7,8 +7,12 @@
 
 * [A Rupesh](https://github.com/rupesh1310)
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
+
 * [Aniket Prasad](https://github.com/aniketdgp)
 ```Digital queueing system using QR codes to avoid standing in a queue. ```
+
+* [Manpreet Singh](https://github.com/manpreetsinghh)
+```Emergency app that send out distress messages along with location to designated persons. Works Offline. Includes safety tips, helplines, feedback, story submission, news feed.```
 
 ### Jump in for a chat!
 
