@@ -20,6 +20,8 @@
 * [Anwesh Panda](https://github.com/Pandacowbat)
 ```Facebook Messenger Chat Bot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.```
 
+* [Akanksha Pattnaik](https://github.com/akapattnaik)
+```Website to play sudoku, with registrations, difficulty levels, error detection, solution, timer, hints and worldwide rank```
 
 ### Jump in for a chat!
 
