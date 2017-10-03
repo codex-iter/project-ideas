@@ -17,6 +17,10 @@
 * [Sulagna Sinha](https://github.com/SulagnaSinha)
 ```Facilitating a list of hospitals, clinics, dispensaries, by shortest distance, from the area searched and filtering the kind of staff and speciality doctors it may contain. Includes first-aid guidance, ambulances and appointment bookings, if agreed upon, by the doctors.```
 
+* [Anwesh Panda](https://github.com/Pandacowbat)
+```Facebook Messenger Chat Bot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.```
+
+
 ### Jump in for a chat!
 
 [![Gitter](https://img.shields.io/gitter/room/codexiter/Lobby.svg)](https://gitter.im/codexiter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
