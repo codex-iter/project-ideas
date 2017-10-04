@@ -29,6 +29,8 @@
 * [Sagar](https://github.com/sagar9268)
 ```A web-platform for exchanging old books between seniors and juniors of a university/college```
 
+* [Aruba Shireen](https://github.com/aruba246)
+```Preventing elephant intervention into human society by smart alarming system and quick emergency response.```
 
 ### Jump in for a chat!
 
