@@ -26,6 +26,10 @@
 * [Jivitesh Debata](https://github.com/JiviteshDebata)
 ```Self Stabilizing Quad-Copter program for smooth handling.```
 
+* [Sagar](https://github.com/sagar9268)
+```A web-platform for exchanging old books between seniors and juniors of a university/college```
+
+
 ### Jump in for a chat!
 
 [![Gitter](https://img.shields.io/gitter/room/codexiter/Lobby.svg)](https://gitter.im/codexiter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
