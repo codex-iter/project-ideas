@@ -3,7 +3,7 @@
 
 
 * [Debashish Mishra](https://github.com/Zanark)
-```Institute level map and directions to find a particular faculty or room number. ```
+```Browser plugin/extension to logout of all logged in accounts in one click.```
 
 * [A Rupesh](https://github.com/rupesh1310)
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
