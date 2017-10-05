@@ -18,7 +18,7 @@
 ```Facilitating a list of hospitals, clinics, dispensaries, by shortest distance, from the area searched and filtering the kind of staff and speciality doctors it may contain. Includes first-aid guidance, ambulances and appointment bookings, if agreed upon, by the doctors.```
 
 * [Anwesh Panda](https://github.com/Pandacowbat)
-```Facebook Messenger Chat Bot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.```
+```Facebook Messenger ChatBot, for basic interaction, getting instant news by providing queries, reminders, weather notifications, hazard news notifications, fun games like trivia, and a casino system with games like coin flip, blackjack and dice, where the user can bet a specific amount of money.```
 
 * [Akanksha Pattnaik](https://github.com/akapattnaik)
 ```Website to play sudoku. Features registrations, difficulty levels, error detection, solution, timer, hints and worldwide rank.```
@@ -31,6 +31,9 @@
 
 * [Aruba Shireen](https://github.com/aruba246)
 ```Preventing elephant intervention into human society by smart alarming system and quick emergency response.```
+
+* [Pranab Pradhan](https://github.com/Pronoob911)
+```A system that takes important dates like birthdays and anniversaries of our friends and relatives, possibly from Facebook or manually entering them, setting a reminder for us and suggesting gifts we can buy for them based on the relationship and the nearest possible place to get the gift```
 
 ### Jump in for a chat!
 
