@@ -38,7 +38,7 @@
 * [Pawan Kumar](https://github.com/Pawan0411)
 ```A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup, FIFA Women's World Cup, ISL statistics for a player for a given year.```
 
-* [Ashish Padhi](https://github.com/akp1881997)
+* [Ashis Kumar Padhi](https://github.com/akp1881997)
 ```Simple password manager, implementing encryption, to keep track of all logins.```
 
 ### Jump in for a chat!
