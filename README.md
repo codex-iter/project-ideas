@@ -9,7 +9,7 @@
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
 
 * [Aniket Prasad](https://github.com/aniketdgp)
-```Digital queueing system using QR codes to avoid standing in a queue. ```
+```Digital queueing system using QR codes to avoid standing in a queue.```
 
 * [Manpreet Singh](https://github.com/manpreetsinghh)
 ```Emergency app that send out distress messages along with location to designated persons. Works Offline. Includes safety tips, helplines, feedback, story submission, news feed.```
@@ -27,13 +27,16 @@
 ```Self Stabilizing Quad-Copter program for smooth handling.```
 
 * [Sagar](https://github.com/sagar9268)
-```A web-platform for exchanging old books between seniors and juniors of a university/college```
+```A web-platform for exchanging old books between seniors and juniors of a university/college.```
 
 * [Aruba Shireen](https://github.com/aruba246)
 ```Preventing elephant intervention into human society by smart alarming system and quick emergency response.```
 
 * [Pranab Pradhan](https://github.com/Pronoob911)
-```A system that takes important dates like birthdays and anniversaries of our friends and relatives, possibly from Facebook or manually entering them, setting a reminder for us and suggesting gifts we can buy for them based on the relationship and the nearest possible place to get the gift```
+```A system that takes important dates like birthdays and anniversaries of our friends and relatives, possibly from Facebook or manually entering them, setting a reminder for us and suggesting gifts we can buy for them based on the relationship and the nearest possible place to get the gift.```
+
+* [Pawan Kumar](https://github.com/Pawan0411)
+```A system that can show ICC World Championships Trophy, Twenty20, IPL, or FIFA Worldcup, FIFA Women's World Cup, ISL statistics for a player for a given year.```
 
 ### Jump in for a chat!
 
