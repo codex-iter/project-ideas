@@ -41,6 +41,9 @@
 * [Ashis Kumar Padhi](https://github.com/akp1881997)
 ```Simple password manager, implementing encryption, to keep track of all logins.```
 
+* [Bhumica Raja](https://github.com/Beubhumi19)
+```A system that takes input of number of subjects, number of faculty and no of rooms available and prepares the class schedule for the entire week; keeping in mind the credits and timing of each subject.```
+
 ### Jump in for a chat!
 
 [![Gitter](https://img.shields.io/gitter/room/codexiter/Lobby.svg)](https://gitter.im/codexiter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
