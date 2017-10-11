@@ -1,4 +1,4 @@
-# Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg)
+# Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?style=flat-square)
 ## The list of submitted project ideas and Github accounts of Codex members
 
 
