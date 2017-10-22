@@ -44,6 +44,9 @@
 * [Bhumica Raja](https://github.com/Beubhumi19)
 ```A system that takes input of number of subjects, number of faculty and no of rooms available and prepares the class schedule for the entire week; keeping in mind the credits and timing of each subject.```
 
+* [Abhishek Poddar](https://github.com/abhipoddar04)
+```An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.```
+
 ### Jump in for a chat!
 
 [![Gitter](https://img.shields.io/gitter/room/codexiter/Lobby.svg)](https://gitter.im/codexiter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
