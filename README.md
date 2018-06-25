@@ -49,4 +49,4 @@
 
 ### Jump in for a chat!
 
-[![Gitter](https://img.shields.io/gitter/room/codexiter/Lobby.svg)](https://gitter.im/codexiter/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&style=for-the-badge)](https://t.me/codexinit)
