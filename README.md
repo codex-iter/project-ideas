@@ -6,8 +6,10 @@
 
 * [Debashish Mishra](https://github.com/Zanark)
 
-```1. Browser plugin/extension to logout of all logged in accounts in one click.```
-```2. A Markdown previewer for the terminal.```
+```
+   1. Browser plugin/extension to logout of all logged in accounts in one click.
+   2. A Markdown previewer for the terminal.
+```
 
 * [A Rupesh](https://github.com/rupesh1310)
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
