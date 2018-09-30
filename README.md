@@ -5,7 +5,9 @@
 ```A cross platform desktop app for editing your photos in possible ways.Editting includes applying filters, resizing, croping, scribling, adding text, etc. You can also add face filters just like the one from instagram or snapchat.```
 
 * [Debashish Mishra](https://github.com/Zanark)
-```Browser plugin/extension to logout of all logged in accounts in one click.```
+
+```1. Browser plugin/extension to logout of all logged in accounts in one click.```
+```2. A Markdown previewer for the terminal.```
 
 * [A Rupesh](https://github.com/rupesh1310)
 ```Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.```
