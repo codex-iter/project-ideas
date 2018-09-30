@@ -1,6 +1,8 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
 
+* [Mohit Agarwal](https://github.com/mojito9542)
+```A cross platform desktop app for editing your photos in possible ways.Editting includes applying filters, resizing, croping, scribling, adding text, etc. You can also add face filters just like the one from instagram or snapchat.```
 
 * [Debashish Mishra](https://github.com/Zanark)
 ```Browser plugin/extension to logout of all logged in accounts in one click.```
@@ -46,6 +48,7 @@
 
 * [Abhishek Poddar](https://github.com/abhipoddar04)
 ```An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.```
+
 
 ### Jump in for a chat!
 
