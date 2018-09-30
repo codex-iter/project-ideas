@@ -47,6 +47,10 @@
 * [Abhishek Poddar](https://github.com/abhipoddar04)
 ```An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.```
 
+* [Mohit Agarwal](https://github.com/mojito9542)
+```A cross platform desktop app for editing your photos in possible ways.Editting includes applying filters, resizing, croping, scribling, adding text, etc. You can also add face filters just like the one from instagram or snapchat.```
+
+
 ### Jump in for a chat!
 
 [![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&style=for-the-badge)](https://t.me/codexinit)
