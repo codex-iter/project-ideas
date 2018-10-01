@@ -1,6 +1,10 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
 
+* [Subhrajit Prusty](https://github.com/subhrajitprusty)
+
+> An app that takes videos and outputs the subtitles/script and then matches it with the lyrics of a song. Example: https://www.youtube.com/watch?v=hrjs1UXC8rU
+
 * [Mohit Agarwal](https://github.com/mojito9542)
 
 
