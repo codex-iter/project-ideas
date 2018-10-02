@@ -1,6 +1,10 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
 
+* [Dibya Ranjan Jena](https://github.com/dibyasonu)
+
+> A command line tool that streams audio from youtube. It should have a command line interface as well as functionality like Cmus(a command line music player in Linux) and it should be cross platform.
+
 * [Jashaswee Jena](https://github.com/jashasweejena)
 
 > An app that uses Github's API to pull your number of contributions from Github and merge show them in the status bar of your phone. Also a detailed summary of contributions could be made available on clicking the notification.
