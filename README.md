@@ -26,6 +26,7 @@
 * [A Rupesh](https://github.com/rupesh1310)
 
 > Institute level database of class notes and faculty instructions, materials in one place. Student reviews and doubt clearing chat rooms.
+>A URL shortener which help us to shorten the url just like tiny.cc and bid.do
 
 * [Aniket Prasad](https://github.com/aniketdgp)
 
