@@ -1,6 +1,8 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
 
+* https://github.com/geekyNehal
+> An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
 * [Dibya Ranjan Jena](https://github.com/dibyasonu)
 
 > A command line tool that streams audio from youtube. It should have a command line interface as well as functionality like Cmus(a command line music player in Linux) and it should be cross platform.
@@ -79,8 +81,6 @@
 
 > An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.
 
-* Nehal Kumar Singh
-> An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
 
 ### Jump in for a chat!
 
