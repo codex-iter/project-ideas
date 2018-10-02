@@ -1,12 +1,19 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
+* [Swagat Parija](https://github.com/swagat5147)
+
+> An portal to compare current price of items in cart across various platforms such as flipkart,amazon,etc and provide best deals available.
+
 * [Shikha Kumari](https://github.com/shikhanimmi)
+
 > To add audio option in Whatsapp,Facebook story.
 
 * [Subham Sinha](https://github.com/sinhasubham)
+
 > An app that predicts a customer/employee is about to leave or stay with that company .
 
 * [Nehal Kumar Singh](https://github.com/geekyNehal)
+
 > An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
 
 * [Dibya Ranjan Jena](https://github.com/dibyasonu)
