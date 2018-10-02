@@ -1,7 +1,7 @@
 # Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
 ## The list of submitted project ideas and Github accounts of Codex members
 
-* https://github.com/geekyNehal
+* [Nehal Kumar Singh](https://github.com/geekyNehal)
 > An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
 * [Dibya Ranjan Jena](https://github.com/dibyasonu)
 
