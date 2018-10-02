@@ -79,7 +79,7 @@
 
 > An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.
 
-* @geekyNehal (https://github.com/geekyNehal)
+* Nehal Kumar Singh
 > An app that will show who have unfollowed us on instagram and will give an option to directly unfollow them without going to instagram account. 
 
 ### Jump in for a chat!
