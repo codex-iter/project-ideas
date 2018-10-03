@@ -102,6 +102,10 @@
 
 > An app that scans any picture/piece of text and immediately detects its language, translates (if it is a piece of text) and shares all the latest news and updates about it in another desired language.
 
+* [Simran Agrawal](https://github.com/SimranAgrawal1)
+
+> An app which hides Whatsapp chats(not in archive) in an third party app - A secret mode for Whatsapp.
+
 
 ### Jump in for a chat!
 
