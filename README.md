@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/codex-ITER-blue.svg?style=for-the-badge&colorB=00ccff&logo=github)
 [![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&colorB=00ccff&style=for-the-badge&logo=telegram)](https://t.me/codexinit)
 
-## A list of project ideas
+## List of project ideas
 
 * [Swagat Parija](https://github.com/swagat5147)
 
