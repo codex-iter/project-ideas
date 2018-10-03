@@ -1,5 +1,10 @@
-# Project Ideas ![Codex](https://img.shields.io/badge/codex-2.0-blue.svg?longCache=true&style=for-the-badge)
-## The list of submitted project ideas and Github accounts of Codex members
+# Project Ideas 
+
+![](https://img.shields.io/badge/codex-ITER-blue.svg?style=for-the-badge&colorB=00ccff&logo=github)
+[![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&colorB=00ccff&style=for-the-badge&logo=telegram)](https://t.me/codexinit)
+
+## A list of project ideas
+
 * [Swagat Parija](https://github.com/swagat5147)
 
 > An portal to compare current price of items in cart across various platforms such as flipkart,amazon,etc and provide best deals available.
@@ -100,4 +105,4 @@
 
 ### Jump in for a chat!
 
-[![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&style=for-the-badge)](https://t.me/codexinit)
+
