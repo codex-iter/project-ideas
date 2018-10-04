@@ -1,6 +1,8 @@
 # Project Ideas 
 
 ![](https://img.shields.io/badge/codex-ITER-blue.svg?style=for-the-badge&colorB=00ccff&logo=github)
+
+## Jump in for a chat 
 [![Telegram](https://img.shields.io/badge/telegram-join-blue.svg?longCache=true&colorB=00ccff&style=for-the-badge&logo=telegram)](https://t.me/codexinit)
 
 ## List of project ideas
@@ -37,7 +39,9 @@
 
 * [Subhrajit Prusty](https://github.com/subhrajitprusty)
 
-> An app that takes videos and outputs the subtitles/script and then matches it with the lyrics of a song. Example: https://www.youtube.com/watch?v=hrjs1UXC8rU
+> 1. An app that takes in  videos and outputs the subtitles/script and then matches it with the lyrics of a song. Example: https://www.youtube.com/watch?v=hrjs1UXC8rU
+
+> 2. Analytics mode for [AWOL](https://github.com/codex-iter/AWOL)
 
 * [Mohit Agarwal](https://github.com/mojito9542)
 
@@ -109,8 +113,3 @@
 * [Simran Agrawal](https://github.com/SimranAgrawal1)
 
 > An app which hides Whatsapp chats(not in archive) in an third party app - A secret mode for Whatsapp.
-
-
-### Jump in for a chat!
-
-
