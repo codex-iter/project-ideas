@@ -15,7 +15,7 @@
 
 * [Jivesh Bansal](https://github.com/Jiveshbansal)
 
-> test project
+> An app that will show all your facbook groups where you are an admin or a member. You could directly post from there.
 
 * [Subham Sinha](https://github.com/sinhasubham)
 
