@@ -113,3 +113,6 @@
 * [Simran Agrawal](https://github.com/SimranAgrawal1)
 
 > An app which hides Whatsapp chats(not in archive) in an third party app - A secret mode for Whatsapp.
+
+* [Prasanth Louis](https://github.com/PrasanthLouis)
+> An app which controls the lights in the room with the help of an Arduino/Raspberry Pi
