@@ -117,3 +117,7 @@
 * [Aditya Singhal](https://github.com/codaked-Adi)
 
 > A website which deals with all off-campus problems of students in various states.
+
+* [Sk Tafique Ahemad](https://github.com/tafique)
+
+> A simple android app which shows cricket score in background in tranparent text so that you can get updated score while playing games or doing other work without the need of stoping your activity.
