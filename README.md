@@ -36,6 +36,7 @@
 > 1. An app that uses Github's API to pull your number of contributions from Github and merge show them in the status bar of your phone. Also a detailed summary of contributions could be made available on clicking the notification.
 > 2. Some platform to add ideas related to Mathematics or Physics and track contributions, accept pull requests and view commit history, just like Github. Have a feature for licensing too.
 > 3. Create a script which would scrape sites like developer.android.com and add the latest versions of the libraries in your android project.
+> 4. OTPs are sensitive data, right? Why not make 'em encrypted and make it so that they can be decrypted only by the app      that is meant to decrypt them. Like Paytm app could only decrypt the OTP for Paytm, neither any other app nor a human        should be able to decipher what the OTP is. That way OTP cannot be read by other malicious apps and services.
 
 * [Subhrajit Prusty](https://github.com/subhrajitprusty)
 
