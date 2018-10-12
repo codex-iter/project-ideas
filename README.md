@@ -7,7 +7,7 @@
 
 ## List of project ideas
 
-*[Omm Mishra](https://github.com/ommmishra)
+* [Omm Mishra](https://github.com/ommmishra)
 
 > A web browser extension to store and compare the price of the items selected by the user. It stores the current price of the item and keeps on checking it from time to time and sends notifications when the price drops. 
 
