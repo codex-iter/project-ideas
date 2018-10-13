@@ -7,9 +7,13 @@
 
 ## List of project ideas
 
+* [Omm Mishra](https://github.com/ommmishra)
+
+> A web browser extension to store and compare the price of the items selected by the user. It stores the current price of the item and keeps on checking it from time to time and sends notifications when the price drops. 
+
 * [Swagat Parija](https://github.com/swagat5147)
 
-> An portal to compare current price of items in cart across various platforms such as flipkart,amazon,etc and provide best deals available.
+> A online portal to compare current price of items in cart across various platforms such as flipkart, amazon, etc and provide the best deals available.
 
 * [Shikha Kumari](https://github.com/shikhanimmi)
 
