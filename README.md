@@ -126,3 +126,7 @@
 * [Sk Tafique Ahemad](https://github.com/tafique)
 
 > A simple android app which shows cricket score in background in tranparent text so that you can get updated score while playing games or doing other work without the need of stoping your activity.
+
+* [Shalini Mohapatra](http://github.com/ShaliniMohapatra)
+
+> A website to include all the Government policies,plans in a summerized manner so that all people can access the contents in a single page instead of messing around. 
