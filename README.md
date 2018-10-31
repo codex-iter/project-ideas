@@ -130,3 +130,7 @@
 * [Shalini Mohapatra](http://github.com/ShaliniMohapatra)
 
 > A website to include all the Government policies,plans in a summerized manner so that all people can access the contents in a single page instead of messing around. 
+
+* [Anish yadav](http://github.com/anish-yadav)
+
+> A web app which speaks what we type , means a text-to-speech web  app.
