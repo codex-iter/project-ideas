@@ -102,7 +102,7 @@
 
 * [Ankit Prasad](https://github.com/Ankit289Prasad)
 
-> A application that can reduce "Food" wastage by donating them to hungry and poor peoples. So this app should help peoples to contact the person who needs FOOD. 
+> A application that helps reducing food wastage by donating to hungry and poor people. App should help to contact the people who need food. 
 
 * [Pawan Kumar](https://github.com/Pawan0411)
 
